@@ -1,0 +1,36 @@
+Further reading and resources
+How I explained REST to my wife: http://www.looah.com/source/view/2284 (Links to an external site.)Links to an external site.
+JSON IETF https://tools.ietf.org/html/rfc7159 (Links to an external site.)Links to an external site. defines JSON and each of the values which are permitted in a JSON document.  If you are interested in a deeper understanding of what JSON is, this is a useful document
+Python Requests documentation (Links to an external site.)Links to an external site. We will be using Python requests for the assignment, and the documentation on this website gives a quick start example as well as the more advanced options.
+We are not using Scrapy on this course, but if you are interested in more intensive scraping applications, then Scrapy (Links to an external site.)Links to an external site. is a popular choice
+If you haven’t used HTML before, this tutorial from w3schools.com (Links to an external site.)Links to an external site. will help you to understand it. You can write HTML and see how it looks, and you can also use it as a complete reference
+The XML tutorial from w3schools.com (Links to an external site.)Links to an external site. provides an introduction to XML, which goes into more detail than the lecture.  Like the HTML tutorial, it also allows for practice writing XML
+
+
+Further reading and resources
+In this article by Van den Broeck et al (Links to an external site.)Links to an external site., the process of data cleaning is examined in the context of clinical epidemiological research, where proper cleaning of data is important, since the consequences of inaccurate data can be particularly grave
+The article discusses in-depth analysis of current data cleaning problems, and approaches to dealing with them.  If you are interested in having a more in-depth understanding about data cleaning, read this article by Rahm & Do  (Links to an external site.)Links to an external site.
+In this article by Köpcke & Rahm (Links to an external site.)Links to an external site. the authors make a comparison of common techniques for matching entities in different datasets, and analyse the performance.
+
+
+
+Further reading and resources 
+NoSQL
+
+This visual guide to NoSQL systems (Links to an external site.)Links to an external site. illustrates the CAP theorem formulated by Eric Brewer.  These databases have different trade-offs compared to a relational database with its ACID constraints
+An article written by Eric Brewer (Links to an external site.)Links to an external site. warns that the CAP theorem he described is not to be taken as an absolute, but merely as an illustration of the trade-offs on offer.  If you are interested in learning more about NoSQL databases and concepts, this will provide some of the problems and trade-offs in designing a distributed system in this way
+MongoDB & PyMongo
+
+These are documentation pages for MongoDB and PyMongo, the Python library which connects to a MongoDB instance.  The specific links to MongoDB are the parts of MongoDB which we will be focusing on.  The syntax between MongoDB queries and the PyMongo wrapper are largely the same, but differences do apply in some instances:
+
+PyMongo documentation (Links to an external site.)Links to an external site.
+MongoDB find (Links to an external site.)Links to an external site.
+MongoDB aggregation framework (Links to an external site.)Links to an external site. - you will find this helpful for assignment 1
+Cloud
+
+Amazon Web Services (AWS) is a popular cloud provider.  The services they offer for research and technical computing (Links to an external site.)Links to an external site. provide an illustration of the potential power of the cloud, and some sample applications
+This article from Scientific Computing World (Links to an external site.)Links to an external site. looks at some use cases of performing scientific computing, and how current methods of data analysis are changing to take advantage of the cloud.
+This early academic article (Links to an external site.)Links to an external site. investigates the feasibility of cloud computing for scientific computing rather than other methods of high performance computing options.  This is still of interest for people considering the trade-offs of using cloud computing rather than their own hardware
+This article looks at the issue of vendor lock in (Links to an external site.)Links to an external site., a known problem of using the cloud.  It looks at the effects of vendor lock-in, and ways in which it could be mitigated
+There are also trade-offs in regards to cloud computing.  In this article (Links to an external site.)Links to an external site., and the YouTube video it links to, security expert Bruce Schneier describes some of the questions that potential cloud users should be asking for trade-offs with security
+

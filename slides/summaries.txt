@@ -1,0 +1,10 @@
+Week 3 summary
+This is a summary of what we have covered with you this week:
+
+the different sources of data for use in data science application
+the different licensing options for data
+the role of APIs for data collection
+the role of data cleansing
+applying data collection techniques to store and manage data in MongoDB
+assessing the benefits and issues with collecting data from multiple sources
+writing queries to extract data from MongoDb
