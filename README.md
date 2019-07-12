@@ -1,5 +1,5 @@
 # Fundamentals of Data Science (Technical)
-All notebooks and material from the Southampton data science fundamentals (technical) course (July - August 2018). The assingments folder contains my completed work that resulted in a score of 100. 
+All notebooks and material from the Southampton data science fundamentals (technical) course (July - August 2018). The assignments folder contains my completed work that resulted in an overall score of 100. 
 
 Recent update: [Bokeh.charts is now deprecated](https://github.com/bokeh/bkcharts)
 
